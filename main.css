@@ -1,0 +1,51 @@
+h1, h2, h3, p {
+    font-family: sans-serif;
+    text-align: center;
+    color: darkblue;
+}
+
+body {
+    background-image: linear-gradient(#c2e5fa, #feffc8);
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#profile_pic {
+    margin-right: 20px;
+}
+
+h1 {
+    font-size: 28pt;
+}
+
+h2 {
+    font-size: 24pt;
+}
+
+#education {
+    clear: both;
+}
+
+p {
+    font-size: 14pt;
+}
+
+.projectTitle {
+    font-size: 16pt;
+}
+
+.projectDescription {
+    font-size: 14pt;
+}
+
+.download_img {
+    width: 30px;
+    height: 30px;
+}
+
+button {
+    margin-left: 20px;
+}
