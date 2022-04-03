@@ -30,6 +30,24 @@ h2 {
 }
 
 p {
+    font-size: 16pt;
+}
+
+.workExperienceCompany {
+    font-size: 16pt;
+}
+
+.workExperienceTitle {
+    font-size: 16pt;
+    margin-bottom: 0px;
+}
+
+.workExperienceDateRange {
+    margin-top: 6px;
+    font-size: 12pt;
+}
+
+.workExperienceDescription {
     font-size: 14pt;
 }
 
